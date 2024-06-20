@@ -1,0 +1,17 @@
+:root {
+  --turquoise: #5acccc;
+  --turquoise-light: #cffafa;
+  --turquoise-dark-1: #53c2c2;
+  --turquoise-dark-2: #28b8b8;
+  --steel-blue: #335c6e;
+  --white: #fff;
+  --dark: #2c3232;
+  --gray: #9da9aa;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Mulish", sans-serif;
+}
