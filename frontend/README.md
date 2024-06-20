@@ -67,6 +67,11 @@ And go to [http://localhost:4173](http://localhost:4173)
 
 And go to [http://localhost:4173](http://localhost:4173)
 
+
+
+
+
 ## Demo
 
 - Below is a demo of the frontend.
+https://github.com/mainamuriuki274/challenge/assets/43462574/36f19933-5fd6-40b0-9d65-7eb1d3d2f7f5
