@@ -16,7 +16,7 @@ const SearchBarCard: FC<Props> = ({ book, ...props }) => {
           loading="lazy"
           width="75"
           height="75"
-          src={`/src/${book.coverPhotoURL}`}
+          src={`/${book.coverPhotoURL}`}
           alt={book.title}
         />
         <Box

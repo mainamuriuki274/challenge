@@ -14,7 +14,7 @@ const Hero: FC = () => {
         my: 4,
       }}
     >
-      <img src="/src/assets/summer-icon.svg" alt=""></img>
+      <img src="/assets/summer-icon.svg" alt=""></img>
       <Typography
         variant="h1"
         sx={{

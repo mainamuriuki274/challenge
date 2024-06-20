@@ -29,7 +29,7 @@ const BookCard: FC<Props> = ({ book }) => {
       <CardMedia
         component="img"
         sx={{ height: "100%", width: "100%" }}
-        image={`/src/${book.coverPhotoURL}`}
+        image={`/${book.coverPhotoURL}`}
         title={book.title}
       />
       <CardContent sx={{ flexGrow: 1, p: 0, pt: 1 }}>

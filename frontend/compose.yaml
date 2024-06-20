@@ -1,6 +1,15 @@
 services:
-  server:
+  web:
+    container_name: ello_fullstack_challenge
+    restart: always
     build:
       context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=production
     ports:
-      - 5173:5173
+      - "4173:4173"
+    command: npm run preview
