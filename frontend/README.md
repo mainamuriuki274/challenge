@@ -5,6 +5,7 @@
 - [Project Setup](#project-setup)
   - [With Docker](#with-docker-recommended)
   - [Without Docker](#without-docker)
+- [Demo](#demo)
 
 ## Project Setup
 
@@ -65,3 +66,7 @@ And go to [http://localhost:4173](http://localhost:4173)
   ```
 
 And go to [http://localhost:4173](http://localhost:4173)
+
+## Demo
+
+- Below is a demo of the frontend.
